@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>Exemplo do Projeto </title>
+ </head>
+ <body>
+   <h1> Um Projeto simples DIO com base em algumas lições aprendidas em aulas do Bootcamp Carrefour Docker. </h1>
+
+ <figure>
+  <img src="diopicture.png"
+       alt="O logo da empresa DIO junto com outro logo escrito bootcamp;"
+       width="400"
+       height="341"
+       title="Logo DIO BOOTCAMP">
+<figcaption>Logo Oficial da DIO junto com um logo simples do Bootcamp.
+</figcaption>
+  </figure>
+    <h2> Na <b>DIO.ME</b>, trabalhamos juntos para manter a educação mais  acessível, para que as pessoas em todo o mundo possam ser contribuidores, criadores informados da Web etc. Acreditamos que esse ato de colaboração humana em uma plataforma aberta é essencial para o crescimento individual e nosso futuro coletivo junto com nossos parceiros como:<h1><b>Banco Carrefour</b> </h1></h2>
+<figure>
+   <img src="carrefourpicture.png"
+       alt="O logo do Bootcamp da DIO em parceria com Banco Carrefour;
+            junto deste logo mais 3 logos do Kubernetes, GoogleCloud(gcp) e Docker, re>
+       width="400"
+       height="341"
+       title="Logo oficial do projeto Bootcamp Banco Carrefour e DIO">
+<figcaption> Logo Oficial Bootcamp DIO + Banco Carrefour.
+</figcaption>
+  </figure>
+<h2> Agradecimento especial:</h2>
+<ul>
+  <li><b>DIO</li>
+  <li>Banco Carrefour</li>
+  <li>Professor Denilson Bonatti</b></li>
+</ul>
+   <h3> Obrigado pelos ensinamentos. </h3>
+ </body>
+</html>
